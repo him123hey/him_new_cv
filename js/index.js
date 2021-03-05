@@ -1,0 +1,1 @@
+setInterval(function () { document.getElementsByClassName("photo").style.cssText = "animation:photoAnimate 2s;"; }, 3000);
